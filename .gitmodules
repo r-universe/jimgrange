@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mixtur"]
+	path = mixtur
+	url = https://github.com/jimgrange/mixtur
+	shallow = true
+	registered = true
+[submodule "trimr"]
+	path = trimr
+	url = https://github.com/jimgrange/trimr
+	shallow = true
+	registered = true

@@ -1,0 +1,10 @@
+[
+  {
+    "package": "mixtur",
+    "oncran": true
+  },
+  {
+    "package": "trimr",
+    "oncran": true
+  }
+]
